@@ -1,4 +1,4 @@
-Hey! This script compares the two arrays and validates whether the second array is a subsequence of the first.
+// Hey! This script compares the two arrays and validates whether the second array is a subsequence of the first.
 
 const array = [7, 1, 22, 23, 6, -1, 8, 11];
 const sequence = [1, 6, -1, 11];
